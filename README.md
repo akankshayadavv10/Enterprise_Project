@@ -4,3 +4,4 @@ This is my project
 Akanksha Yadav - Frontend
 Urmila Jakhete- Backend
 Anushka Misal- Database 
+Garima Singh-Database
