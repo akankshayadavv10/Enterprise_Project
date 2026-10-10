@@ -1,6 +1,6 @@
 # Enterprise_Project
 This is my project
 #team members
-Akanksha Yadav 
-Urmila Jakhete
-Anushka Misal
+Akanksha Yadav - Frontend
+Urmila Jakhete- Backend
+Anushka Misal- Database 
